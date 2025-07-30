@@ -1,0 +1,6 @@
+payment_id,customer_id,amount,mode,payment_date,is_refund
+PMT001,C001,600,Credit Card,2024-01-15,N
+PMT002,C002,700,UPI,2024-01-20,Y
+PMT003,C003,750,Debit Card,2024-04-10,N
+PMT004,C004,300,Credit Card,2024-07-01,N
+PMT005,C005,320,UPI,2024-10-05,Y

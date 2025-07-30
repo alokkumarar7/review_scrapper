@@ -1,0 +1,6 @@
+product_id,sku,name,cost,price,supplier_id
+P001,SKU001,Mobile,200,300,S001
+P002,SKU002,Laptop,500,700,S002
+P003,SKU003,Tablet,150,250,S003
+P004,SKU004,Monitor,100,150,S004
+P005,SKU005,Headphones,50,80,S005

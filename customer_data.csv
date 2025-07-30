@@ -1,0 +1,6 @@
+customer_id,name,email,phone,region
+C001,John Doe,john@example.com,9998887777,North
+C002,Jane Smith,jane@example.com,8887776666,South
+C003,Raj Kumar,raj@example.com,7776665555,East
+C004,Ayesha Khan,ayesha@example.com,6665554444,West
+C005,Li Wei,li@example.com,5554443333,North
